@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fares_Amor_CV/1.0.0": {
+        "runtime": {
+          "Fares_Amor_CV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fares_Amor_CV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

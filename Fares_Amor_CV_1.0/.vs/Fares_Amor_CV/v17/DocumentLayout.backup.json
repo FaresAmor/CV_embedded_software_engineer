@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|c:\\users\\pc\\source\\repos\\fares_amor_cv_1.0\\fares_amor_cv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|solutionrelative:fares_amor_cv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\fares_amor_cv\\competences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|solutionrelative:fares_amor_cv\\competences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\fares_amor_cv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|solutionrelative:fares_amor_cv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|c:\\users\\pc\\source\\repos\\fares_amor_cv_1.0\\fares_amor_cv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86381EF-7499-49F4-B48C-8E3C2C0387A1}|Fares_Amor_CV\\Fares_Amor_CV.csproj|solutionrelative:fares_amor_cv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "competences.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\competences.cs",
+              "RelativeDocumentMoniker": "Fares_Amor_CV\\competences.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\competences.cs [Conception]",
+              "RelativeToolTip": "Fares_Amor_CV\\competences.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:58:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.cs",
+              "RelativeDocumentMoniker": "Fares_Amor_CV\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.cs",
+              "RelativeToolTip": "Fares_Amor_CV\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:00:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Fares_Amor_CV\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.Designer.cs",
+              "RelativeToolTip": "Fares_Amor_CV\\Form1.Designer.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:25:02.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.cs",
+              "RelativeDocumentMoniker": "Fares_Amor_CV\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Fares_Amor_CV_1.0\\Fares_Amor_CV\\Form1.cs [Conception]",
+              "RelativeToolTip": "Fares_Amor_CV\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:20:33.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
